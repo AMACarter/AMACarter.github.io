@@ -1585,9 +1585,10 @@ content
   color: #fafafc;
 }
 .art-banner .art-banner-overlay .art-banner-photo {
-  width: auto;
+  width: 433px;
+  height: 577px;
   position: absolute;
-  right: auto;
+  right: 30px;
   bottom: 0;
 }
 
