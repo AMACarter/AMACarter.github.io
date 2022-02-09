@@ -1,13 +1,3 @@
-/* -------------------------------------------
-
-Name: 		Arter
-Version:  1.0
-Author:		Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
-
-------------------------------------------- */
 /*--------------------------------------------
 
 1. common
@@ -1025,7 +1015,7 @@ info bar
   right: 5px;
   height: 15px;
   width: 15px;
-  background: #FFC107;
+  background: #36a909;
   border-radius: 50%;
   z-index: 0;
   -webkit-transition: 0.4s ease-in-out;
@@ -1033,7 +1023,7 @@ info bar
 }
 .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:after {
   position: relative;
-  content: 'I am available for freelance hire';
+  content: 'I am available to hire.';
   width: 115px;
   display: block;
   padding: 5px 10px;
@@ -1092,7 +1082,7 @@ info bar
   background: red;
 }
 .art-info-bar .art-header .art-avatar .art-lamp-light.art-not-available .art-available-lamp:after {
-  content: "Sorry I'm busy today";
+  content: "I am not looking for work at the moment!";
 }
 .art-info-bar .art-name {
   color: #fafafc;
