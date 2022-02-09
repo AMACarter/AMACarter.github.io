@@ -1015,7 +1015,7 @@ info bar
   right: 5px;
   height: 15px;
   width: 15px;
-  background: #36a909;
+  background: #32920c;
   border-radius: 50%;
   z-index: 0;
   -webkit-transition: 0.4s ease-in-out;
@@ -1023,7 +1023,7 @@ info bar
 }
 .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:after {
   position: relative;
-  content: 'I am available to hire.';
+  content: 'I am open to listen to new opportunities!';
   width: 115px;
   display: block;
   padding: 5px 10px;
